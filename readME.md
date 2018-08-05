@@ -1,3 +1,6 @@
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/1942.svg)](https://www.guardrails.io)
+
 Challenges
 
 1. (Easy) Change the background of the game
